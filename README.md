@@ -22,18 +22,7 @@
 <br />
 
 <div align="center">
-<table align="center" width="90%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img width="440" src="https://github-readme-stats.vercel.app/api?username=Novice-DH&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Novice-DH GitHub stats" />
-      <br />
-      <img width="440" src="https://streak-stats.demolab.com?user=Novice-DH&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="Novice-DH GitHub streak" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novice-DH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Novice-DH top languages" />
-    </td>
-  </tr>
-</table>
+  <img width="440" src="https://streak-stats.demolab.com?user=Novice-DH&theme=tokyonight&locale=zh_Hans&short_numbers=true" alt="Novice-DH GitHub streak" />
 </div>
 
 ## 🚀 Featured Projects
