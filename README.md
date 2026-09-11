@@ -29,6 +29,10 @@
 
 | 项目 | 简介 |
 | ---- | ---- |
+| [**Comet**](https://github.com/rpamis/comet) | ☄️ 面向编码的可恢复长任务工作流与 Skill 平台 —— Native/Classic 双模式，Rubric/Pass@k 科学评测驱动 Skill 进化 |
+| [**AOCI-CODE**](https://github.com/aoci-spec/aoci-code) | 📐 AOCI 规范的代码实现 —— 面向 Agent 的开放协作接口 |
+| [**motion-web**](https://github.com/feitangyuan/motion-web) | 🎞️ 动效优先的创意 Web 框架与组件库 |
+| [**LobeHub**](https://github.com/lobehub/lobehub) | 🤖 首席 Agent 运营官 —— 把你的 Agent 编排成 7×24 全天候自动化运行 |
 | [**OpenMontage**](https://github.com/Novice-DH/OpenMontage) | 🎬 全球首个开源 Agentic 视频生产系统 |
 | [**QuantGPT**](https://github.com/Novice-DH/QuantGPT) | 📈 Agent 驱动的 Alpha 工厂 —— LLM 自主设计并回测量化策略 |
 
